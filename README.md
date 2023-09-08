@@ -1,7 +1,7 @@
 # PixilationRenderFeature
 Code for a pixilation render feature effect for Unity URP, compatible with 2022
 
-Example at https://www.youtube.com/watch?v=v8OAG4Nz82M
+Example at https://youtu.be/Xmy504dTwoY?si=h9k0NjFUCF6aWKoh
 
 ![alt text](https://github.com/FeralPug/PixilationRenderFeature/blob/main/Example/Pixilation_Moment.jpg)
 
